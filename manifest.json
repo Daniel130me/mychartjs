@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "mydee.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "mydee.netlify",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
